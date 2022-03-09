@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "Salchipapa",
+      "description": "Comida rápida hecha a base de papa, queso, salchicha y varias carnes frías.",
+      "price": 20000,
+      "id": 1
+    },
+    {
+      "name": "Perro Caliente",
+      "description": "Pan, Salchicha y Salsas",
+      "price": 10000,
+      "id": 2
+    }
+  ]
+}
