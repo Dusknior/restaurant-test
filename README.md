@@ -1,5 +1,7 @@
 # restaurant-test
 
+La vista del proyecto es /products, osea localhost:3000/products
+
 npm install
 
 Una vez habiendo inicializado npm nuevamente en el proyecto
